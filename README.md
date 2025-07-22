@@ -6,14 +6,14 @@ This project presents a streamlined and secure web-based form designed to collec
 
 # Features
 This project offers a range of features that emphasize functionality, usability, and modern development practices:
- • A dynamic and real-time table that retrieves and displays data directly from a MySQL database
- • A status control mechanism that allows users to toggle values between active and inactive states instantly
- • A responsive input form designed to collect user name and age efficiently
- • Asynchronous communication with the server using AJAX, eliminating the need to reload the page
- • A clean and responsive user interface styled with custom CSS to ensure accessibility across devices
- • Developed using current web technologies including HTML, CSS3, JavaScript, PHP, MySQL
- • Codebase is modular and well-structured, supporting scalability and ease of maintenance
- • Compatible with local PHP development environments such as XAMPP for seamless deployment and testing
+ 1 A dynamic and real-time table that retrieves and displays data directly from a MySQL database
+ 2 A status control mechanism that allows users to toggle values between active and inactive states instantly
+ 3 A responsive input form designed to collect user name and age efficiently
+ 4 Asynchronous communication with the server using AJAX, eliminating the need to reload the page
+ 5 A clean and responsive user interface styled with custom CSS to ensure accessibility across devices
+ 6 Developed using current web technologies including HTML, CSS3, JavaScript, PHP, MySQL
+ 7 Codebase is modular and well-structured, supporting scalability and ease of maintenance
+ 8 Compatible with local PHP development environments such as XAMPP for seamless deployment and testing
  
 # How to use
 To run this project locally, follow these simple steps:
@@ -32,6 +32,7 @@ To run this project locally, follow these simple steps:
 
 # video project
 
-https://github.com/user-attachments/assets/75f6bb79-3674-4e09-8555-fbd172a0c082
+https://github.com/user-attachments/assets/4d237f71-6007-4fa9-852e-d08708c889cb
+
 
 

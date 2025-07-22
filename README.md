@@ -1,4 +1,7 @@
-# wed_task3
+# web_task3
 
-https://github.com/user-attachments/assets/08ac6f45-e2fe-431b-98ec-d4c45aa664bf
+
+
+
+https://github.com/user-attachments/assets/6bb6d4c4-77e9-4c24-9c89-1106dfdbb7c9
 
